@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Agent-Driven Stock Simulator (Live Plot Edition)
-
-Controls (focus the plot window):
+Controls:
   Space = pause/resume
   +     = faster
   -     = slower
@@ -193,3 +191,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
